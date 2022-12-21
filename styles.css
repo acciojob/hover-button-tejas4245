@@ -1,13 +1,12 @@
-.button:hover{
-  background:transparent;
+button{
+  background: black;
+color:White;
+  border-radius: 5px;
+  border: none;
 }
-input:hover{
-  background-color:aliceblue;
-  cursor:pointer;
-}
-}
-form{
-  width:500px;
-  color:white;
-  font-family:'Roboto'sans-serif;
+button:hover{
+  background: yellow;
+  color: black;
+  border-radius: 30px;
+  border: none;
 }
